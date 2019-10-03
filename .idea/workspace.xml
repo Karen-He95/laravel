@@ -54,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="144">
               <caret line="46" column="58" lean-forward="true" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
               <folding>
                 <element signature="e#7#132#0#PHP" expanded="true" />
@@ -256,12 +256,12 @@
       <updated>1569494714488</updated>
       <workItem from="1569494715679" duration="663000" />
       <workItem from="1569548883754" duration="3825000" />
-      <workItem from="1570072005532" duration="5059000" />
+      <workItem from="1570072005532" duration="5417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9547000" />
+    <option name="totallyTimeSpent" value="9905000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,7 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="144">
           <caret line="46" column="58" lean-forward="true" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
           <folding>
             <element signature="e#7#132#0#PHP" expanded="true" />
